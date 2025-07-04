@@ -36,7 +36,6 @@ I’m also a business-minded developer — building SaaS platforms that solve re
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kyrozyn/)
-- 🐙 [GitHub](https://github.com/your-username)
 
 Feel free to reach out if you're looking for a tech partner, need help with your Laravel projects, or just want to talk SaaS and business ideas!
 
